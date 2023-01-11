@@ -1,5 +1,5 @@
-#TheGameOfLife
-![plot](./readmeimg/4.png)
-![plot](./readmeimg/1.png)
-![plot](./readmeimg/2.png)
-![plot](./readmeimg/3.png)
+# Rent Car
+![plot](./readmeimage/4.png)
+![plot](./readmeimage/1.png)
+![plot](./readmeimage/2.png)
+![plot](./readmeimage/3.png)
