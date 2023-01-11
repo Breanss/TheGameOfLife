@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "zadanie-Form1",
+      "appliesTo": "GameOfLife/Form1.cs",
+      "type": "launch"
+    }
+  ]
+}
