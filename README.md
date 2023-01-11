@@ -1,4 +1,4 @@
-# Rent Car
+# TheGameOfLife
 ![plot](./readmeimage/4.png)
 ![plot](./readmeimage/1.png)
 ![plot](./readmeimage/2.png)
